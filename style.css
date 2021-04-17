@@ -662,14 +662,13 @@ footer{
 
 .button {
   background: rgba(84,58,183,1);
-  height: 2.8rem;
+  height: 2.6rem;
   width: 2.8rem;
-  border-radius: 50%;
+  border:1.5px solid white;
   position: fixed;
-  top: 10px; 
+  top: 13px; 
   left: 25px; 
   z-index: 2000;
-  border:2px solid white;
   text-align: center; 
   cursor: pointer;
 }
@@ -863,6 +862,7 @@ footer{
     }
     .story-exh{
       margin-bottom: 30px;
+      margin-left: -5px;
     }
 
     .pub-text{
